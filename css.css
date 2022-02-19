@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:url("https://source.unsplash.com/random/1600x900/") no-repeat center/cover ;
+    min-height: 100vh;
+    display: block;
+
+}
+
+.curr1{
+    width: 100px;
+    padding: 2px 20px;
+    margin-right: 10px;
+}
+
+.curr{
+    width: 100px;
+    padding: 2px 20px;
+    margin-right: 10px;
+
+}
+
+.content{
+    display: block;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.get-rates{
+    padding: 10px 25px;
+    margin: 20px 0;
+}
+
+
+.input{
+    padding: 5px 10px;
+    outline: none;
+}
+
+.output{
+    padding: 5px 10px;
+    outline: none;
+}
+
+.select-1{
+    width: 60px;
+}
+
+.select-2{
+    width: 60px;
+}
